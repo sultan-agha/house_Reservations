@@ -18,6 +18,6 @@ This repository contains the source code of the House Reservation App. Feel free
 
  ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+<img src="images/screenshots/login.jpeg" height="600" alt="view of the login page "> <img src="images/screenshots/sweet_home.jpeg" height="600" alt="view of the login page ">
+
 
