@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "507153383284",
+    "project_id": "real-estate-firebase-d8ed0",
+    "storage_bucket": "real-estate-firebase-d8ed0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507153383284:android:b1b396f34b2e5ff4cb7621",
+        "android_client_info": {
+          "package_name": "com.example.house_reservation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507153383284-8rus7n21oqvfuj6puqrq9bdnl9vjp2iq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQvTra-UuHYVEJ5ptM9ZATvARt9_FkfQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507153383284-8rus7n21oqvfuj6puqrq9bdnl9vjp2iq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
